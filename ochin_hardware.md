@@ -32,3 +32,8 @@ https://www.seeedstudio.com/Ochin-Tiny-Carrier-Board-for-Raspberry-Pi-Compute-Mo
 [https://github.com/ochin-space/ochin-CM4](https://github.com/ochin-space/ochin-CM4)
 
 
+https://pipci.jeffgeerling.com/boards_cm
+
+
+
+
