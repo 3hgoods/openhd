@@ -4,6 +4,8 @@ https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md
 git clone --recursive https://github.com/ArduPilot/ardupilot.git
 cd ardupilot
 
+./waf list_boards
+
 ./waf configure --board navio2 
 ./waf copter
 
