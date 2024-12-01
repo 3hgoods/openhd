@@ -140,6 +140,49 @@ sudo ./build/navio2/bin/examples/Printf
 
 sudo ./build/navio2/bin/examples/Printf
 
+'build' finished successfully (3m30.051s)
+No function 'examples/Printf' defined in /home/h1/ardupilot/wscript
+
+h1@h1:~/ardupilot/build/linux/bin$ ls
+antennatracker  arducopter-heli  ardurover  blimp
+arducopter      arduplane        ardusub
+
+특별한 예제를 컴파일해서 확인하려고 했으나, 지원하지 않아 문제
+
+----------------------------------
+./waf build examples
+
+컴파일된 예제를 다 컴파일해서 확인하기
+
+h1@h1:~/ardupilot$ cd build/linux/
+AntennaTracker/ ArduPlane/      Blimp/          Tools/          examples/       libraries/      
+ArduCopter/     ArduSub/        Rover/          bin/            lib/            modules/
+
+ls build/linux/examples/
+AC_PID_test          AP_Parachute_test             Filter                 Printf             RTC_test               XPlane
+AHRS_Test            Airspeed                      FlashTest              RCInput            ReplayGyroFFT          eulers
+AP_Common            AnalogIn                      GPIOTest               RCInputToRCOutput  RingBuffer             expo_inverse_test
+AP_Compass_test      BARO_generic                  GPS_AUTO_test          RCOutput           Scheduler_test         jedec_test
+AP_Declination_test  BinarySem                     GPS_UBLOX_passthrough  RCOutput2          SlewLimiter            location
+AP_Logger_AllTypes   BusTest                       Hello                  RCProtocolDecoder  SmartRTL_test          matrix_alg
+AP_Logger_test       CompassCalibrator_index_test  ICM20789               RCProtocolTest     Storage                onvif_test
+AP_Marvelmind_test   DSP_test                      INS_generic            RC_Channel         StorageTest            polygon
+AP_Mission_test      Derivative                    LowPassFilter          RC_UART            ToshibaLED_test        rotations
+AP_Motors_test       EvaluateBatteryModel          LowPassFilter2p        RFIND_test         TransferFunctionCheck  routing
+AP_Notify_test       EvaluateMotorModel            ModuleTest             RNG_test           UART_chargen
+AP_OpticalFlow_test  File_IO                       NMEA_Output            RPM_generic        UART_test
+
+--------------------------------------------
+No function 'examples/Printf' defined in /home/h1/ardupilot/wscript
+
+==> 
+        'Tools/*',
+        'libraries/*/examples/*',
+        'libraries/*/tests',
+        'libraries/*/utility/tests',
+        'libraries/*/benchmarks',
+    
+    
 
 
 ./waf build --target examples/Printf --upload
