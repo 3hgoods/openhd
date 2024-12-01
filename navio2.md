@@ -111,9 +111,39 @@ examples/Printf
 
 -----------------------------------------
 
+==========================================================
+
+ls /dev/ttyACM0 
+screen /dev/ttyACM0 115200
+
+
+sudo apt install minicom
+minicom -b 115200 -D /dev/ttyACM0 
+
+
+================================================
 
 ./waf configure --board=navio2
 ./waf build examples/UART_Test
+
+만약 USB 포트를 통한 연결이 되지 않는다면, 예제가 Linux 콘솔로 직접 출력하는지 확인하세요:
+sudo ./build/navio2/bin/examples/Printf
+
+네트워크 인터페이스를 통해 출력할 수 있도록 설정했다면, 실행 시 다음과 같은 포트로 연결된 출력을 확인합니다:
+./build/navio2/bin/examples/Printf -A udp:127.0.0.1:14550
+이후 Mission Planner 또는 QGroundControl에서 출력 확인 가능합니다.
+
+===========================================================================
+# Configure the Linux board
+./waf configure --board=linux
+./waf build examples/Printf 
+
+sudo ./build/navio2/bin/examples/Printf
+
+
+
+./waf build --target examples/Printf --upload
+
 
 
 ./waf --targets examples/UART_Test
