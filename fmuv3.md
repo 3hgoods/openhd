@@ -622,9 +622,72 @@ sudo apt install minicom
 minicom -b 115200 -D /dev/ttyACM0 
 
 
+5단계 빠져나오기
+minicom ctrl-a 누른 후 q를 누르면 됨
 
+
+
+----------------
+
+./waf list_boards
+Pixhawk1 Pixhawk1-1M Pixhawk1-1M-bdshot Pixhawk1-bdshot
+
+1단계
+./waf configure --board fmuv3
+./waf configure --board=Pixhawk1 
+
+2단계
 
 
 3단계
-ls /dev/ttyACM0 
+./waf build --target examples/ToshibaLED_test --upload
+usb 뺀후 연결하여 파일 업로드
+
+
+examples/ToshibaLED_test 작동 안하는 듯함.
+
+./waf configure --board fmuv3
+./waf build --target examples/ToshibaLED_test --upload
+./waf build --target examples/ICM20789 --upload
 screen /dev/ttyACM0 115200
+결과 읽기 실패
+
+
+
+
+
+
+
+
+먼저 설치하자.
+
+#sudo apt-get install minicom
+
+실행한다!
+
+#sudo minicom
+
+여기서 시리얼 포트를 일단 알아야하는데, 터미널서 이걸 친다!
+
+#sudo dmesg | grep tty
+여기서 내 시리얼 포트를 확인한다. 이후 미니콤에서,
+내 포트는 /dev/ttyUSB0이다.
+
+ctrl-A Z를 치면(컨트롤상태에서 A누르고, Z 따로 눌러줌)
+메뉴판이 촤르륵 뜬다.
+
+O를 누르고(cOnfigure minicom)
+serial prot setup을 누르고
+
+A - Serial device : /dev/ttyUSB0
+E - 115200
+F - Yes
+G - Yes
+
+로 설정해주고 나와서
+
+Save setup as dfl을 누르면 저장 완료 된다!
+지금부터는 print가 출력된다!
+
+
+
