@@ -32,6 +32,15 @@ h1@h1:~/ardupilot$ vi libraries/AP_Motors/examples/AP_Motors_test/AP_Motors_test
 
 -----------------------------------------------------------------------------------------
 
+
+조금 더 읽어보기
+https://ardupilot.org/dev/docs/learning-ardupilot-the-example-sketches.html    --> 픽스호크1 imu 예제되는지 확인 필요
+https://docs.px4.io/v1.12/ko/flight_controller/pixhawk.html
+
+
+
+
+
 --upload
 usb 뺀후 연결하여 파일 업로드
 
