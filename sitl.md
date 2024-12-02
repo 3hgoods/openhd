@@ -21,6 +21,16 @@ ref https://blog.csdn.net/lida2003/article/details/130437984
 
 --------------------------------------------------------------------------
 
+~/ardupilot$ ./build/sitl/examples/AP_Motors_test 
+Starting sketch 'UNKNOWN'
+Starting SITL input
+
+~/ardupilot$ vi libraries/AP_Motors/examples/AP_Motors_test/
+AP_Motors_test.cpp      nobuild.txt             wscript
+MotorTestSweep.sh       run_heli_comparison.py  
+h1@h1:~/ardupilot$ vi libraries/AP_Motors/examples/AP_Motors_test/AP_Motors_test.cpp 
+
+-----------------------------------------------------------------------------------------
 
 --upload
 usb 뺀후 연결하여 파일 업로드
