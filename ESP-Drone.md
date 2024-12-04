@@ -12,4 +12,10 @@ https://github.com/Circuit-Digest/ESP-Drone
 --------------------------------------------
 
 
+https://docs.espressif.com/projects/espressif-esp-drone/zh-cn/latest/gettingstarted.html
+
+https://docs.espressif.com/projects/espressif-esp-drone/zh-cn/latest/_static/ESP32_S2_Drone_V1_2/SCH_Mainboard_ESP32_S2_Drone_V1_2.pdf
+
+
+
 
