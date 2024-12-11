@@ -1,4 +1,9 @@
 
+MTSSD03-67MSW337
+
+77pin 사용필요
+
+
 
 The Raspberry Pi M.2 HAT+ lets you connect M.2 M Key peripherals, such as NVMe drives and AI accelerators, to Raspberry Pi 5.
 1x Knurled double-flanged screw to secure and support the M.2 peripheral
