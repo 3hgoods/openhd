@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=7uPPkfP5UBE
 
 에어빼기 밸브 구입
 https://smartstore.naver.com/wua2676/category/ALL?cp=1
+
+스페이서 그림
+https://smartstore.naver.com/wua2676/products/8929407603
+
