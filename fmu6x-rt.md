@@ -14,8 +14,17 @@ NXP1170 EVB- 1G지원보드 설정을 그대로 적용하고
 기존 UART로 자리잡던 것은 다른 핀으로 옮겨갈라고 하는데
 설정값 셋팅을 확인해 주셨으면 합니다.
 
+SW 정보
+https://github.com/nxp-appcodehub/ap-ml-person-detector
 
+https://www.nxp.com/design/design-center/software/embedded-software/application-software-packs/application-software-pack-ml-person-detector:APPSWPACK-MLPD#downloads
 
+https://github.com/nxp-appcodehub/dm-nafe_rt1170
+
+https://github.com/nxp-appcodehub/dm-rt1170evkb-full-appliance
+
+rtl sw guide
+https://mcuxpresso.nxp.com/appcodehub#step1
 
 
 
