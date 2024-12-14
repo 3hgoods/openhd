@@ -1,4 +1,13 @@
 
+
+두 회로 비교할때 1G를 사용하기 위해 SCH55139 (레펀런스1G) 측처엄 색깔 치한 부분이 추가되어야 하고, NXP Carrier 기존 FC에서는  UART1_DEBUG와  UART4_TELEM를 죽이고 적당한 것으로 옮겨주어야 합니다.
+
+
+
+https://www.altium.com/altium-designer-viewer
+
+
+-------------------------------------------------
 요청내용
 fmu-v6xrt 보드의 설정은
 PX4-Autopilot-main\boards\px4\fmu-v6xrt\nuttx-config\include
