@@ -8,9 +8,27 @@
 라즈베리파이 4에서 UART 2-5를 추가 할당해서 사용하고자 하면 dt-overlay를 수정해 주어야 하는데요. UART관련 dt-overlay는 아래 명령어를 통해 확인해 볼 수 있습니다.
 [출처] 라즈베리파이 시리얼 통신(RaspberryPi Uart Communication)|작성자 황제곰
 
+ 
+
+--------------설정
+sudo nano /boot/config.txt
+dtoverlay=uart3
+sudo reboot
+ raspi-gpio get 4-5
+
+dtoverlay -h uart3
+Params: ctsrts  
 
 
+참조2 https://forums.raspberrypi.com/viewtopic.php?t=241623
+. /boot/config.txt
+add the following
 
+dtoverlay=gpio-shutdown,gpio_pin=5,active_low=1,gpio_pull=up
+dtparam=act_led_gpio=4
+enable_uart=1
+dtoverlay=miniuart_bt
+dtoverlay=uart-ctsrts
 
 
 
