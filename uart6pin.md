@@ -31,6 +31,11 @@ dtoverlay=miniuart_bt
 dtoverlay=uart-ctsrts
 
 
+참조3 https://blog.naver.com/jjong_w/222051738240
+
+
+
+
 
 
 USB-to-Serial 변환기를 사용하는 경우, 포트 이름이 ttyUSB로 
