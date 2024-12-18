@@ -12,3 +12,8 @@ https://doc.cuav.net/data-transmission/pw-link/en/use-tutorial.html
 나는 아무것도 안해 자동연결됨
 
 telem2는 연결안되고 telem1만 연결됨.
+
+parameter에
+ser_telm1만 존재
+baud rate 115200까지만 지원
+
