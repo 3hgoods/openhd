@@ -7,3 +7,9 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2Ftramper2%2F22
 
 인버트 회로 사용 예시(usb-uart)
 https://docs.px4.io/main/ko/tutorials/linux_sbus.html
+
+
+
+pico 사용
+https://youtu.be/SeNsK70B4l8
+
