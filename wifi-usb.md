@@ -4,6 +4,18 @@
 https://pt.aliexpress.com/i/1005004395372947.html
 
 검증?
+하나의 wifi 모듈로, 2개의 ip를 받아 하나는 2.4Ghz에 다른 하나는 5.8Ghz를 할당받아..동시에 사용하는 방법 알려줘.
+ChatGPT의 말:
+ChatGPT
+하나의 Wi-Fi 모듈로 2.4GHz와 5GHz 대역에서 각각 별도의 IP를 할당받아 동시에 사용하는 방법은 일반적으로 듀얼 밴드 Wi-Fi 모듈에서 가능합니다. 하지만 대부분의 일반적인 Wi-Fi 모듈은 한 번에 한 대역(2.4GHz 또는 5GHz)만 연결할 수 있습니다. 두 대역을 동시에 사용하려면 아래의 조건과 설정이 필요합니다.
+
+
+--> 3.0을 지원할때는 두개를 동시에 쓰는 경우만 의미가 있음
+
+
+https://usb.brando.com/type-c-dual-port-otg-hub-adapter_p18682c42d15.html
+
+
 
 
 
