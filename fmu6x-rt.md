@@ -18,6 +18,7 @@ PX4-Autopilot-main\boards\px4\fmu-v6xrt\nuttx-config\include
 
 NXP1170 EVB- 1G지원보드 설정을 보면
 다르게 회로가 설정되어 있음.
+https://www.nxp.com/design/design-center/development-boards-and-designs/i-mx-evaluation-and-development-boards/i-mx-rt1170-evaluation-kit:MIMXRT1170-EVKB
 
 NXP1170 EVB- 1G지원보드 설정을 그대로 적용하고
 기존 UART로 자리잡던 것은 다른 핀으로 옮겨갈라고 하는데
