@@ -1,5 +1,22 @@
 
 
+
+NXP-MR-VMU-RT1176 보드설명
+- https://nxp.gitbook.io/vmu-rt1176/production-v1-carrier-board-connectors
+
+
+NXP-MR-VMU-RT1176 보드 회로도
+ - https://github.com/NXPHoverGames/NXP-FMUMRT
+   
+
+NXP-RT1176 보드 회로도
+ - https://www.nxp.com/design/design-center/development-boards-and-designs/i-mx-evaluation-and-development-boards/i-mx-rt1170-evaluation-kit:MIMXRT1170-EVKB
+
+
+
+
+
+
 두 회로 비교할때 1G를 사용하기 위해 SCH55139 (레펀런스1G) 측처엄 색깔 치한 부분이 추가되어야 하고, NXP Carrier 기존 FC에서는  UART1_DEBUG와  UART4_TELEM를 죽이고 적당한 것으로 옮겨주어야 합니다.
 
 
