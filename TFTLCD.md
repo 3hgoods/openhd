@@ -2,6 +2,11 @@
 
 TFT LCD 480x272 4.3'' ZIF FFC 40
 
+LCD교체
+https://www.youtube.com/watch?v=VWDJOnnZUvM
+
+--> 아이디어. 케이블 연장선을 사용하고 직접연결과 라즈베리파이5 연결을 선택할 수 있도록 함.
+
 
 https://www.rcgroups.com/forums/showthread.php?3869543-Blog-17-RadioMaster-TX16S-schematic-diagram
 
