@@ -10,3 +10,7 @@ https://i.ebayimg.com/images/g/iNsAAOSwSbhgQhDK/s-l1600.webp
 https://www.ebay.com/itm/276344540924
 
 https://ko.aliexpress.com/item/1005003489111276.html?gatewayAdapt=glo2kor
+
+가로방향 커넥터
+https://www.diyfixtool.com/products/lcd-display-3d-touch-screen-test-cable-for-iphone-11-14-pro-max?variant=43990443720933
+
