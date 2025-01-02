@@ -7,6 +7,11 @@ https://www.youtube.com/watch?v=VWDJOnnZUvM
 
 --> 아이디어. 케이블 연장선을 사용하고 직접연결과 라즈베리파이5 연결을 선택할 수 있도록 함.
 
+MK2는 라인선이 2파트임
+https://susungrc.com/product/detail.html?product_no=1945&cate_no=256&display_group=1
+
+
+
 
 https://www.rcgroups.com/forums/showthread.php?3869543-Blog-17-RadioMaster-TX16S-schematic-diagram
 
