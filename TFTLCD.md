@@ -22,5 +22,8 @@ Serial I/O (AUX1-2, BT, GPS)
 rpi5 hdmi 연결가능성?
 https://www.ebay.com/itm/296561838787
 
+LCD없이 설정하기가 된다면???
+https://rcdiy.ca/introduction-to-opentx-companion/
+
 
 
