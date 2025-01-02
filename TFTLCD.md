@@ -13,7 +13,11 @@ https://susungrc.com/product/detail.html?product_no=1945&cate_no=256&display_gro
 https://www.radiomasterrc.com/products/tx16s-replacement-ips-screen-and-touch-panel
 
 buy it https://ko.aliexpress.com/i/1005005917167472.html
+라즈베리파이5에서 DSI사용
+--> 케이블연결 체크, 해상도 상승문제 확인필요
 
+
+*** 경고창 전달하기
 
 
 
