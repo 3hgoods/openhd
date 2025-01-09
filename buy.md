@@ -18,3 +18,5 @@ Connector with 4pin 2PCS USD35.00        USD70.00
 Connector with 2pin 2PCS USD35.00   USD70.00
 Handing cost   USD35.00
 EXW Total: USD2093.00 EXW    적용환율 1468.5 >>> $2093 >> 3,073,570
+송금수수료 7500 전신료 800원 해외은행수수료 26,411 합 41,911
+합 3,112,969
