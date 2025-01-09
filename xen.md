@@ -46,3 +46,9 @@ The Xen Project
 https://www.youtube.com/@XenprojectOrg
 https://www.youtube.com/@Xen_Project/videos
 
+
+AI 유사한 향상기능
+PVS-가속기
+https://docs.xenserver.com/en-us/citrix-hypervisor/storage/pvs.html
+
+
