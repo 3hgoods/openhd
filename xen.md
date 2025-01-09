@@ -8,6 +8,9 @@ NPU Virtualization
 https://www.mdpi.com/1424-8220/24/24/8012
 https://xzman.github.io/yuqixue/pdf/npuvirt_hotinfra23.pdf
 https://github.com/NPUcraft/npu.VirtualizationProject
+https://arxiv.org/html/2408.04104v1
+
+
 
 
 
