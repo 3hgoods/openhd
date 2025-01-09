@@ -1,5 +1,11 @@
 
 
+단단설치
+https://mangkyu.tistory.com/83
+
+
+
+
 xen orchestra
 https://somaz.tistory.com/311
 https://youtu.be/euR29S6RHLA
