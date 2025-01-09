@@ -1,4 +1,9 @@
 
+핵심키워드
+https://en.wikipedia.org/wiki/AI-assisted_virtualization_software >> hypervisor
+ --> 컨셉만 있고 방법이 없음.
+
+
 
 간단설치
 https://mangkyu.tistory.com/83
