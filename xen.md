@@ -10,6 +10,9 @@ https://xzman.github.io/yuqixue/pdf/npuvirt_hotinfra23.pdf
 https://github.com/NPUcraft/npu.VirtualizationProject
 https://arxiv.org/html/2408.04104v1
 
+핵심키워드3 DPU
+https://blogs.nvidia.co.kr/blog/whats-a-dpu-data-processing-unit/
+
 
 
 
