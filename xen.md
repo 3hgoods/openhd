@@ -1,7 +1,11 @@
 
-핵심키워드
+핵심키워드1
 https://en.wikipedia.org/wiki/AI-assisted_virtualization_software >> hypervisor
  --> 컨셉만 있고 방법이 없음.
+
+핵심키워드2
+NPU Virtualization
+https://www.mdpi.com/1424-8220/24/24/8012
 
 
 
