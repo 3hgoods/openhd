@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/AI-assisted_virtualization_software >> hypervisor
 핵심키워드2
 NPU Virtualization
 https://www.mdpi.com/1424-8220/24/24/8012
+https://xzman.github.io/yuqixue/pdf/npuvirt_hotinfra23.pdf
+
 
 
 
