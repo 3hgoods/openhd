@@ -1,8 +1,18 @@
 
 
-단단설치
+간단설치
 https://mangkyu.tistory.com/83
 
+간단이론
+
+https://blog.naver.com/hillagoon_it/221069699434
+
+자원 최적화 툴 libvirt  LVS pacemaker 
+https://blog.naver.com/hillagoon_it/221078110869
+https://blog.naver.com/hillagoon_it/221087830296
+
+영어강의 동영상
+https://www.youtube.com/playlist?list=PLeLcvrwLe184NOJ9Sj9cusKziwX5ZLgR-
 
 
 
