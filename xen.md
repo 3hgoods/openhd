@@ -1,5 +1,6 @@
 ebook
 http://nikansec.com/wp-content/themes/nikansec/Files/XenServer_Administration_Handbook%20(2).pdf
+https://lists.xen.org/archives/html/xen-users/2017-03/pdfh1KaofyQbz.pdf
 
 
 
