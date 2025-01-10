@@ -17,6 +17,15 @@ https://blogs.nvidia.co.kr/blog/whats-a-dpu-data-processing-unit/
 핵심키워드4  AI 가속기(TPU) Hailo-8
 https://hailo.ai/
 
+-----------------------
+
+hailo-8은 VMWare ESXI에서 작동하나요?
+https://community.hailo.ai/t/does-hailo-8-work-under-vmware-esxi/366/3
+
+Hailo 8을 KVM과 PCI 패스스루와 함께 사용한 분 있나요?
+https://community.hailo.ai/t/has-anyone-used-the-hailo-8-with-kvm-and-pci-passthrough/2039
+
+
 
 
 
