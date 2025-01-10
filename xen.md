@@ -14,6 +14,8 @@ https://arxiv.org/html/2408.04104v1
 https://blogs.nvidia.co.kr/blog/whats-a-dpu-data-processing-unit/
 
 
+핵심키워드4  AI 가속기(TPU) Hailo-8
+https://hailo.ai/
 
 
 
