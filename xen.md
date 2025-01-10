@@ -1,3 +1,9 @@
+ebook
+http://nikansec.com/wp-content/themes/nikansec/Files/XenServer_Administration_Handbook%20(2).pdf
+
+
+
+
 
 핵심키워드1
 https://en.wikipedia.org/wiki/AI-assisted_virtualization_software >> hypervisor
