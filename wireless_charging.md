@@ -29,5 +29,8 @@ https://youtu.be/P5d8QxAFe70
 태양광이 안될때는 --> 기름 보조방식
 
 
+스마트팩토리 제조공정
+>>> https://github.com/3hgoods/openhd/blob/main/robot_factory.md
+
 
 
