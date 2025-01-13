@@ -18,6 +18,29 @@ https://youtu.be/GVtyvpB5HLY?t=891
 
 뒤집기든 채위든 자동화가 가능한 것과 사람이 해야하는 것을 구분(드론 비행)
 
+------------
+
+덜어서 가는 방식
+https://youtu.be/-b_-JNMLui4?t=1925
+
+배에서 망형태로 옮기기-(겹겹 상태인 듯) 싣기
+https://youtu.be/-b_-JNMLui4?t=2246
+
+배안 잔 김처리하기
+https://youtu.be/-b_-JNMLui4?t=180
+
+박스형태 김 옮기기 준비 (넘치게 담으면 결국 사람힘으로)
+https://youtu.be/-b_-JNMLui4?t=189
+https://youtu.be/-b_-JNMLui4?t=427  
+
+호스는 김공급 인가 물 공급인가?
+https://youtu.be/-b_-JNMLui4?t=414
+https://youtu.be/-b_-JNMLui4?t=416
+
+---------
+
+
+
 
 1차년도 - 기존배를 개조하여 적용할 수 있는 내용
 2차년도 - 1차년도 실증
