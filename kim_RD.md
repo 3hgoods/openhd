@@ -7,12 +7,13 @@
 https://youtu.be/PuaYB1j4MHY
 부표기 아래에 있을때 적용
 
-물김 채취
+
+물김 적재 자동화 --> 1)양식장에서 수확  
 https://youtu.be/GVtyvpB5HLY
 https://youtu.be/j9hJbahInW8
 
-물김 적재 자동화 --> 1)양식장에서 수확  
-물김 적재 자동화 --> 2)공판장으로 인계까지  
+물김 적재 자동화 --> 2)공판장으로 인계까지
+https://youtu.be/x6FCnTfVYQ4
 https://youtu.be/GVtyvpB5HLY?t=891        
 
 뒤집기든 채위든 자동화가 가능한 것과 사람이 해야하는 것을 구분(드론 비행)
