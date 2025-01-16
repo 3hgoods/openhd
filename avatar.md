@@ -1,4 +1,11 @@
 
+고글2 
+https://youtu.be/33NIlKI7V9I
+
+---------------
+
+
+
 DJI fly APP에서 영상 보기 
 https://youtu.be/0MeRbEUA-XE
 >>> 해당영상에서는 구글에서 정보를 받음.  >>> 조정기에서 되는지 확인이 필요.
