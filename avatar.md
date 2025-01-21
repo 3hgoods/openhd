@@ -5,12 +5,28 @@
 https://youtu.be/98e03i-IiO4
 
 
+고장시 끄는 방법
+https://youtu.be/RiceFPeS8OA
+
+RC2 - 외장모니터 연결가능
+https://youtu.be/z9OtBBlTXbU
+https://youtu.be/09gU0UsaI0U
+https://youtu.be/wX4uJsLCptA
+
+고글2  - 외장모니터 연결
+https://youtu.be/txAkjW_U_0g?t=726   (무선 스트리밍)
+https://youtu.be/xQ4jc8zOYMg
 
 
-
+https://youtu.be/crN2bA8s9lk   >>>
+https://cosmostreamer.com/products/djigoggles2/
 
 고글2 
 https://youtu.be/33NIlKI7V9I
+
+
+flyapp 이면 안드로이드 앱이 들어 있는 TV만들면 되지 않을까!!!
+
 
 ---------------
 
