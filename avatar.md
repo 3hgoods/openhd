@@ -1,4 +1,14 @@
 
+
+
+초기설정
+https://youtu.be/98e03i-IiO4
+
+
+
+
+
+
 고글2 
 https://youtu.be/33NIlKI7V9I
 
