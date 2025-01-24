@@ -20,3 +20,7 @@ https://home.kepco.co.kr/kepco/CO/htmlView/COABHP002_01.do?menuCd=FN04010202
 
 콜라보
 하이퍼바이저
+
+
+스마트글라스 - 음성 인터페이스
+https://ardupilot.org/mavproxy/docs/modules/chat.html
