@@ -17,6 +17,9 @@ https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_00
 인공지능 - 짐벌
 https://home.kepco.co.kr/kepco/CO/htmlView/COABHP002_01.do?menuCd=FN04010202
 
+https://youtu.be/UTIYY6iujg0
+
+
 
 콜라보
 하이퍼바이저
