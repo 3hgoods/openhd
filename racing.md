@@ -10,3 +10,5 @@ https://rcdrone.top/products/rjx-35-to-30mm-double-propeller-common-shaft-arm-fo
 https://www.youtube.com/watch?v=_2OFdjPNpOQ
 
 
+https://www.youtube.com/watch?v=HyITnt4dEFM
+
