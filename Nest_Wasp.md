@@ -8,6 +8,10 @@
  https://github.com/andrw3000/vespai?utm_source=chatgpt.com
  https://youtu.be/W7o5SeuDHi4?t=113
 
+
+말벌쏘임에 의한 피해현황. 24년 한국곤충학회 춘계발표.
+
+
  
 트랩이 있을 수 있나?
 -드론으로 트랩설치하고 모니터링하기?
@@ -33,6 +37,9 @@ https://envirosafeaustralia.com.au/how-to-manage-european-wasps-in-your-back-yar
 
 드론에 진공청소기 달기 + 분쇄하면서 
 https://mainichi.jp/english/articles/20211224/p2a/00m/0sc/010000c
+
+열화상카메라도 간혹사용
+https://pubmed.ncbi.nlm.nih.gov/32011804/
 
 
 
