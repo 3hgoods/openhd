@@ -1,5 +1,11 @@
 
 
+기초디자인
+https://grabcad.com/library/avata-style-copter_3zoll-1
+
+밧데리
+https://grabcad.com/library/dji-avata-battery-1
+
 
 초기설정
 https://youtu.be/98e03i-IiO4
@@ -27,8 +33,15 @@ https://youtu.be/33NIlKI7V9I
 
 flyapp 이면 안드로이드 앱이 들어 있는 TV만들면 되지 않을까!!!
 
-
 ---------------
+
+외부연결 rc-pro 연결방법
+https://youtu.be/DLW1P39PTek
+
+외부연결 rc-pro 앱 연결방법
+https://youtu.be/CL4TGFEb_mI?t=109
+
+------
 
 
 
