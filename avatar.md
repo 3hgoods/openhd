@@ -41,7 +41,7 @@ flyapp 이면 안드로이드 앱이 들어 있는 TV만들면 되지 않을까!
 외부연결 rc-pro 연결방법
 https://youtu.be/DLW1P39PTek
 
-외부연결 rc-pro 앱 연결방법
+고글2 외부연결 방법(폰)
 https://youtu.be/CL4TGFEb_mI?t=109
 
 ------
