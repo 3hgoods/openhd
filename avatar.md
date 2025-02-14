@@ -15,9 +15,12 @@ https://youtu.be/98e03i-IiO4
 https://youtu.be/RiceFPeS8OA
 
 RC2 - 외장모니터 연결가능
-https://youtu.be/z9OtBBlTXbU
+https://youtu.be/z9OtBBlTXbU  모니터 완전히 킨 후 연결  레노바 P12 x
+ 
 https://youtu.be/09gU0UsaI0U
+
 https://youtu.be/wX4uJsLCptA
+
 
 고글2  - 외장모니터 연결
 https://youtu.be/txAkjW_U_0g?t=726   (무선 스트리밍)
