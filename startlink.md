@@ -27,3 +27,10 @@ https://youtu.be/_7_vb5aPl64
 DJI가 아니면 hm30으로 지원가능하지 않을까?
 
 
+
+
+DYI GNSS ntrip RTK server 만들기
+https://youtu.be/cG0paZCw9XA
+
+
+
