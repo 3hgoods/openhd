@@ -64,3 +64,15 @@ mcpu=arm7tdmi
 	cp build/cubepilot_io-v2_default/cubepilot_io-v2_default.bin boards/cubepilot/cubeorange/extras/cubepilot_io-v2_default.bin
 	cp build/cubepilot_io-v2_default/cubepilot_io-v2_default.bin boards/cubepilot/cubeyellow/extras/cubepilot_io-v2_default.bin
 	git status
+
+
+
+
+
+
+https://github.com/NXPHoverGames/NXP-FMUMRT/tree/main
+
+ https://github.com/CogniPilot/NXP-VMU_RT117x-HW/tree/main
+
+
+ 
