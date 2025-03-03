@@ -27,3 +27,11 @@ https://youtu.be/ozfUJlEPI7U
 4g 음역구역이 발생할때 - 확장방식은??
 이동식 기지국 드론
 
+LTE Repeater
+https://youtu.be/HvcU612_TMQ
+
+LTE Repeater drone 필요
+
+산림청 항공헬기 밤나무 장제중 추락
+https://youtu.be/Ht3Lep8t4ew
+
