@@ -6,6 +6,9 @@
 
 
 
+게이트웨이 악세사리
+https://www.amazon.com/XLTTYWL-Starlink-Adapter-Protection-Converter/dp/B0DM5JH4QX/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.b6317ed0-569e-4ec3-9dd1-9b416425f60d%3Aamzn1.sym.b6317ed0-569e-4ec3-9dd1-9b416425f60d&crid=GMVY0A62I5SS&cv_ct_cx=starlink+mini&keywords=starlink+mini&pd_rd_i=B0DM5JH4QX&pd_rd_r=c608bb5f-62a1-457b-a505-7c639e802219&pd_rd_w=zsBn7&pd_rd_wg=4vI6r&pf_rd_p=b6317ed0-569e-4ec3-9dd1-9b416425f60d&pf_rd_r=8QY94Z4FZM0RNZDET3WQ&qid=1741098680&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=starlink+%2Caps%2C296&sr=1-4-375063ea-79a2-4e26-9378-053001ac2334-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&psc=1
+
 
 
 
