@@ -1,4 +1,22 @@
 
+스타링크 미니3d 파일
+https://www.reddit.com/r/Starlink/comments/1f3yh90/hired_someone_on_fiverr_to_cad_model_a_solid/
+
+거치대1
+https://youtu.be/tg6gEiRBPOk
+
+https://youtu.be/yWiyOoQ16M4
+
+
+
+
+
+
+
+
+https://ko.aliexpress.com/item/1005007916306493.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.40.73c27khy7khyJT&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14452.396806.0&scm_id=1007.14452.396806.0&scm-url=1007.14452.396806.0&pvid=84aad609-cb89-4884-8e92-9525e7cfb3d9&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14452.396806.0,pvid:84aad609-cb89-4884-8e92-9525e7cfb3d9,tpp_buckets:668%232846%238108%231977&pdp_ext_f=%7B%22order%22%3A%229%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A&search_p4p_id=20250304054716539319477479897773671_3
+
+
 
 
 https://youtu.be/xp-4zn3FG30
