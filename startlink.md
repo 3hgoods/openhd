@@ -1,4 +1,8 @@
 
+요금제가 핸드폰으로만 결합되니
+미국가서 못사는 문제 어떻게 해결하지?
+
+
 스타링크 미니3d 파일
 https://www.reddit.com/r/Starlink/comments/1f3yh90/hired_someone_on_fiverr_to_cad_model_a_solid/
 
