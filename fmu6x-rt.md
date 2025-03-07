@@ -1,3 +1,19 @@
+이 mcu의 최종활용방법은 
+
+---------\RT1176 M7 에 M4를 보조로 사용하는 방법 예시 알려 줘.
+RT1176은 Heterogeneous Multicore Processing (HMP) 구조로, M7과 M4가 독립적인 코드 실행이 가능하지만, Shared Memory (공유 메모리)와 Messaging Unit (MU) 를 통해 서로 통신
+
+M7 메인, M4 보조 프로세서 활용 예시
+1. 전형적인 활용 방식
+✅ M7 (메인) → 복잡한 연산, UI, 네트워크, 고속 제어
+✅ M4 (보조) → 센서 데이터 처리, 저전력 작업, 실시간 제어 보조
+
+2. 구현 방법 (기본 흐름)
+M7이 먼저 부팅되며, M4의 실행을 제어함.
+M7이 M4의 코드를 Tightly Coupled Memory (TCM) 또는 OCRAM 에 로드하고 실행 명령을 보냄.
+M7과 M4가 Messaging Unit (MU) 또는 Shared Memory 를 통해 데이터를 교환함.
+M7이 주요 연산을 수행하고, M4는 센서 데이터 전처리나 주기적인 작업을 담당함.
+
 
 
 ------------두 cpu간 연결
