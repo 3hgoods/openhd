@@ -5,7 +5,9 @@ https://www.nxp.com.cn/docs/zh/training-reference-material/TIP-IMRT-MCU-APPLICAT
 
 https://github.com/nxp-mcuxpresso/rpmsg-lite
 
-
+✅ 간단한 메시지 전송 → MU (Messaging Unit) 활용
+✅ 고속 데이터 전송 → IPC (Inter-Processor Communication) 활용
+✅ 고급 메시지 시스템 → RPMsg-Lite 활용
 
 
 NXP-MR-VMU-RT1176 보드설명
