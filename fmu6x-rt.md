@@ -1,5 +1,12 @@
 
 
+------------두 cpu간 연결
+https://www.nxp.com.cn/docs/zh/training-reference-material/TIP-IMRT-MCU-APPLICATION-1.pdf
+
+https://github.com/nxp-mcuxpresso/rpmsg-lite
+
+
+
 
 NXP-MR-VMU-RT1176 보드설명
 - https://nxp.gitbook.io/vmu-rt1176/production-v1-carrier-board-connectors
@@ -10,13 +17,14 @@ https://agamrobotics.gitbook.io/docs/autopilots-flight-controller/quickstart/tec
 
 NXP-MR-VMU-RT1176 보드 회로도
  - https://github.com/NXPHoverGames/NXP-FMUMRT
+
+
+   NXP RT1176 zephyr
+   https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/doc/index.html
    
 
 NXP-RT1176 보드 회로도
  - https://www.nxp.com/design/design-center/development-boards-and-designs/i-mx-evaluation-and-development-boards/i-mx-rt1170-evaluation-kit:MIMXRT1170-EVKB
-
-
-
 
 
 
