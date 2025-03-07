@@ -5,6 +5,8 @@ NXP-MR-VMU-RT1176 보드설명
 - https://nxp.gitbook.io/vmu-rt1176/production-v1-carrier-board-connectors
 - 
 https://agamrobotics.gitbook.io/docs/autopilots-flight-controller/quickstart/technical-specification
+- https://nxp.gitbook.io/vmu-rt1176/examples/testing-can3-in-px4
+- 
 
 NXP-MR-VMU-RT1176 보드 회로도
  - https://github.com/NXPHoverGames/NXP-FMUMRT
