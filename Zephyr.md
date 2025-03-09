@@ -1,6 +1,18 @@
 설치 가이드
 기본 https://docs.zephyrproject.org/latest/develop/getting_started/index.html
 
+예제 빌드
+https://github.com/LairdCP/BL65x-Zephyr-Tutorials/blob/master/docs/ubuntu.md
+
+예제빌드
+https://engschool.tistory.com/126
+
+예제빌드 x86
+https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/samples/hello_world/README.html#hello-world
+
+예제빌드 rt1176
+https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/doc/index.html
+
 
 
 
