@@ -13,6 +13,7 @@ https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/samples/hello_world/REA
 예제빌드 rt1176
 https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/doc/index.html
 
+west build -b vmu_rt1170 samples/hello_world
 
 
 
