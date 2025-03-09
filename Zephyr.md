@@ -15,6 +15,7 @@ https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/d
 
 west build -b vmu_rt1170 samples/hello_world
 
+west build -p always -b <your-board-name> samples/basic/blinky
 
 
 
