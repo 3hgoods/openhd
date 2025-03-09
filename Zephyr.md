@@ -1,3 +1,10 @@
+설치 가이드
+기본 https://docs.zephyrproject.org/latest/develop/getting_started/index.html
+
+
+
+
+
 
 한글 동영상강의
 https://youtu.be/PDG1e65Wsz0
