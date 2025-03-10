@@ -56,6 +56,13 @@ https://m.blog.naver.com/chcbaram/222755342935
 혼용할 것.
 https://engschool.tistory.com/126
 
+****
+https://docs.zephyrproject.org/latest/boards/nxp/vmu_rt1170/doc/index.html
+
+수정
+west build -b vmu_rt1170/mimxrt1176/cm7 samples/hello_world
+
+
 
 
 
