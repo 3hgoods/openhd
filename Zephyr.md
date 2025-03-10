@@ -5,6 +5,10 @@ vscode 이용 설치가이드
 https://zephyr-workbench.com/docs/documentation/installation
 https://zephyr-workbench.com/docs/tutorials/arduino-uno-r4-wifi/
 
+https://engschool.tistory.com/126
+
+
+
 
 
 예제 빌드
