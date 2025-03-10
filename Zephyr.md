@@ -60,7 +60,8 @@ https://engschool.tistory.com/126
 https://docs.zephyrproject.org/latest/boards/nxp/vmu_rt1170/doc/index.html
 
 수정
-west build -b vmu_rt1170/mimxrt1176/cm7 samples/hello_world
+현재 west build -b vmu_rt1170 samples/hello_world
+수정 west build -b vmu_rt1170/mimxrt1176/cm7 samples/hello_world
 
 
 
