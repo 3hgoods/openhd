@@ -8,6 +8,9 @@ https://zephyr-workbench.com/docs/tutorials/arduino-uno-r4-wifi/
 https://engschool.tistory.com/126
 
 
+https://bootlin.com/blog/getting-started-with-zephyr/
+
+
 
 
 -----------------------------------------------------------------------------------
