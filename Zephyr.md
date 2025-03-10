@@ -10,6 +10,21 @@ https://engschool.tistory.com/126
 
 
 
+-----------------------------------------------------------------------------------
+
+west zephyr-export
+Zephyr (/home/h1/zephyrproject/zephyr/share/zephyr-package/cmake)
+has been added to the user package registry in:
+~/.cmake/packages/Zephyr
+
+ZephyrUnittest (/home/h1/zephyrproject/zephyr/share/zephyrunittest-package/cmake)
+has been added to the user package registry in:
+~/.cmake/packages/ZephyrUnittest
+
+-----------------------------------------------------------------------------------
+
+
+
 
 예제 빌드
 https://github.com/LairdCP/BL65x-Zephyr-Tutorials/blob/master/docs/ubuntu.md
