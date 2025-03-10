@@ -10,6 +10,51 @@ https://engschool.tistory.com/126
 
 https://bootlin.com/blog/getting-started-with-zephyr/
 
+핵심원리
+https://m.blog.naver.com/chcbaram/222755342935
+
+
+==================
+    1  wget https://apt.kitware.com/kitware-archive.sh
+    2  sudo bash kitware-archive.sh
+    3  sudo apt install --no-install-recommends git cmake ninja-build gperf   ccache dfu-util device-tree-compiler wget   python3-dev python3-pip python3-setuptools python3-tk python3-wheel xz-utils file   make gcc gcc-multilib g++-multilib libsdl2-dev libmagic1
+    4  cmake --version
+    5  python3 --version
+    6  dtc --version
+    7  sudo apt install python3-venv
+    8  python3 -m venv ~/zephyrproject/.venv
+    9  source ~/zephyrproject/.venv/bin/activate
+   10  pip3 install --upgrade pip
+   11  pip install west
+   12  history
+   13  west init ~/zephyrproject
+   14  cd ~/zephyrproject
+   15  west update
+   16  history
+   17  west zephyr-export
+   18  west packages pip --install
+   19  pip install -r zephyr/scripts/requirements.txt
+   20  cd ~
+   21  mkdir zephyr-sdk
+   22  cd zephyr-sdk
+   23  wget https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.16.8/zephyr-sdk-0.16.8_linux-x86_64.tar.xz
+   24  tar xvf zephyr-sdk-0.16.8_linux-x86_64.tar.xz
+   25  cd zephyr-sdk-0.16.8/
+   26  ls
+   27  ./setup.sh
+   28  cd ..
+   29  ls
+   30  cd ..
+   31  cd zephyrproject/
+   32  ls
+   33  cd zephyr/
+   34  west build -p auto -b qemu_cortex_m3 samples/synchronization
+   35  west build -t run
+
+=====================================================================
+
+
+
 
 
 
