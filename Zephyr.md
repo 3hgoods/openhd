@@ -1,6 +1,12 @@
 설치 가이드
 기본 https://docs.zephyrproject.org/latest/develop/getting_started/index.html
 
+vscode 이용 설치가이드
+https://zephyr-workbench.com/docs/documentation/installation
+https://zephyr-workbench.com/docs/tutorials/arduino-uno-r4-wifi/
+
+
+
 예제 빌드
 https://github.com/LairdCP/BL65x-Zephyr-Tutorials/blob/master/docs/ubuntu.md
 
@@ -16,6 +22,12 @@ https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/d
 west build -b vmu_rt1170 samples/hello_world
 
 west build -p always -b <your-board-name> samples/basic/blinky
+
+
+---에러 해결1
+echo 'export ZEPHYR_SDK_INSTALL_DIR=~/zephyr-sdk-0.17.0' >> ~/.bashrc
+source ~/.bashrc
+
 
 
 
