@@ -180,6 +180,12 @@ lsusb
 udevadm info -q property -n /dev/ttyACM0
 
 
+옞[3
+https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
+
+west build -b nucleo_f103rb samples/basic/blinky
+   90  west flash --runner openocd
+
 
 
 
