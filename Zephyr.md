@@ -144,6 +144,9 @@ https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
 
 
 
+west build -b nucleo_f103rbc samples/hello_world 
+
+
 예제2
 https://slowbootkernelhacks.blogspot.com/2024/11/zephyr-rtos-programming.html
 
@@ -161,6 +164,25 @@ Minicom에서 빠져나가려면 다음 단계를 따라 주세요:
 그런 다음 X 키를 누릅니다.
 "Leave without reset?" (리셋 없이 종료할까요?)라는 메시지가 나오면 **Enter**를 눌러 종료합니다.
 만약 강제 종료하려면 **CTRL + A**를 누른 후 **Q**를 입력
+
+
+연결된 디바이스 확인방법 >>>>>>>>>
+최근 연결된 USB 장치의 정보를 확인할 수 있습니다.
+dmesg | grep ttyACM
+
+현재 연결된 USB 직렬 장치를 확인
+ls /dev/ttyACM*
+
+USB 장치 목록을 확인하여 어떤 장치가 연결되어 있는지 확인
+lsusb
+
+해당 포트의 상세 정보를 확인
+udevadm info -q property -n /dev/ttyACM0
+
+
+
+
+
 
 --------------
 
