@@ -124,6 +124,21 @@ https://docs.nordicsemi.com/bundle/ncs-2.5.2/page/zephyr/boards/arm/vmu_rt1170/d
 
 The VMU RT1170 features an i.MX RT1176 dual core MCU with the Cortex-M7 core at 1 GHz and a Cortex-M4 at 400 MHz. The i.MX RT1176 MCU offers support over a wide temperature range and is qualified for consumer, industrial and automotive markets. The VMU RT1170 is the default VMU for CogniPilot’s Cerebri, a Zephyr RTOS based Autopilot.
 
+====================
+예제
+https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
+
+
+
+
+
+
+
+
+
+
+--------------
+
 
  유사1
 https://nxp.gitbook.io/mr-b3rb/advanced-untested-and-rough-notes/configuring-cerebri-software-for-mr-canhubk344-without-power-measurement-capability
