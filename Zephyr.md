@@ -144,6 +144,8 @@ https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
 
 
 
+예제2
+https://slowbootkernelhacks.blogspot.com/2024/11/zephyr-rtos-programming.html
 
 
 
