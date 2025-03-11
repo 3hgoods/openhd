@@ -130,6 +130,20 @@ https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
 
 
 
+===
+업로드ㅡ 안되는 문제 해결
+
+   75  sudo apt install openocd
+   76  west flash --runner openocd
+   77  sudo west flash --runner openocd
+   78  sudo usermod -a -G plugdev $USER
+   79  west flash --runner openocd
+   80  sudo udevadm control --reload-rules && sudo udevadm trigger
+   81  west flash --runner openocd
+   82  history
+
+
+
 
 
 
