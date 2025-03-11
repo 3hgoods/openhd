@@ -38,6 +38,8 @@ https://m.blog.naver.com/chcbaram/222755342935
    21  mkdir zephyr-sdk
    22  cd zephyr-sdk
    23  wget https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.16.8/zephyr-sdk-0.16.8_linux-x86_64.tar.xz
+   https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.17.0/zephyr-sdk-0.17.0_linux-x86_64.tar.xz
+   
    24  tar xvf zephyr-sdk-0.16.8_linux-x86_64.tar.xz
    25  cd zephyr-sdk-0.16.8/
    26  ls
