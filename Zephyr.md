@@ -148,10 +148,19 @@ https://docs.zephyrproject.org/latest/boards/st/nucleo_f103rb/doc/index.html
 https://slowbootkernelhacks.blogspot.com/2024/11/zephyr-rtos-programming.html
 
 
+west build -b nucleo_l432kc samples/hello_world -t menuconfig
 
+west build -b nucleo_f103rb samples/hello_world -t menuconfig
+sudo minicom -D /dev/ttyACM0 -b 115200
+빠져나가는 방법 컨트롤 X 하고 A키를 누른뒤 손을 뗀 후 
+ 키를 누릅니다
 
-
-
+ 
+Minicom에서 빠져나가려면 다음 단계를 따라 주세요:
+**CTRL + A**를 누릅니다.
+그런 다음 X 키를 누릅니다.
+"Leave without reset?" (리셋 없이 종료할까요?)라는 메시지가 나오면 **Enter**를 눌러 종료합니다.
+만약 강제 종료하려면 **CTRL + A**를 누른 후 **Q**를 입력
 
 --------------
 
