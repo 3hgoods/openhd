@@ -1,3 +1,10 @@
+
+
+pyocd 툴 설치 별도
+https://blog.naver.com/chcbaram/223240810583
+
+
+
 설치 가이드
 기본 https://docs.zephyrproject.org/latest/develop/getting_started/index.html
 
