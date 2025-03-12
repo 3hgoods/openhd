@@ -1,4 +1,15 @@
 
+zephyr + xen
+
+https://pmsquaresoft.com/running-zephyr-rtos-on-raspberry-pi-4-with-xen/
+
+리눅스 구동은???
+
+
+
+
+
+
 os
 
 https://www.autoelectronics.co.kr/article/articleView.asp?idx=3901
