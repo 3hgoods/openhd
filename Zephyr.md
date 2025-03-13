@@ -1,4 +1,8 @@
 
+uno 
+https://zephyr-workbench.com/docs/tutorials/arduino-uno-r4-wifi/
+
+
 
 pyocd 툴 설치 별도
 https://blog.naver.com/chcbaram/223240810583
