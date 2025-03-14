@@ -11,6 +11,17 @@ https://foundries.io/insights/blog/xenomai4-imx8mm/
 rpi4 xen3
 https://github.com/shkwon98/rpi4-xenomai3
 
+응용 - 네트웍 콘트롤러
+https://www.koreascience.kr/article/JAKO202420543208818.pdf
+
+rk/arm 칩기준 
+https://www.cnblogs.com/wsg1100/p/18608339
+https://for-a.seoultech.ac.kr/FileUploader?mode=downloadWeb&subDir=/ADMI/TCAP/RA&fileName=1700845.pdf&downloadFileNm=OpenHardware.pdf
+
+경쟁 우분투 리얼타임
+https://yogyui.tistory.com/entry/Linux-Real-Time-Ubuntu-2204-LTS#google_vignette
+
+
 
 설치법 안내 2023년
 https://ahnbk.dev/?p=402
