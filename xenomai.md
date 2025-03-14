@@ -1,3 +1,16 @@
+공식문서
+https://doc.xenomai.org/
+
+ros2 + fpga 결합
+https://essay.utwente.nl/104808/1/Raoudi_MA_EEMCS.pdf
+
+Linux microPlatform의 Xenomai4
+https://foundries.io/insights/blog/xenomai4-imx8mm/
+
+
+rpi4 xen3
+https://github.com/shkwon98/rpi4-xenomai3
+
 
 설치법 안내 2023년
 https://ahnbk.dev/?p=402
