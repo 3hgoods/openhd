@@ -1,7 +1,20 @@
 
 
-How to setup ChibiStudio
+읽기1  How to setup ChibiStudio
 https://www.playembedded.org/blog/how-to-setup-chibistudio/
+
+실행1 <다운로드> 윈도우 버전 다운로드
+https://www.chibios.org/dokuwiki/doku.php?id=chibios:products:chibistudio:start
+- c 폴더로 이동시킴
+
+실행2
+https://gnutoolchains.com/arm-eabi/openocd/ 로 이동 후 다운로드
+- 압축풀고 c 및에 OpenOCD-20240916-0.12.0 이동
+
+실행3 예제  - 다운로드 후 입출풀기 c로 이동
+https://github.com/ChibiOS/ChibiOS
+
+
 
 
 라즈베리파이에서
