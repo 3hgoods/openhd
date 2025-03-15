@@ -22,6 +22,10 @@ https://github.com/ChibiOS/ChibiOS
 https://github.com/fpoussin/ChibiOS-Examples/tree/master
 ChibiOS-Examples-master
 
+예제
+https://github.com/yunusdawji/xenomai-examples
+
+
 
 읽기2 예제후 동일하
 https://www.playembedded.org/blog/simplest-project-chibios/
@@ -36,6 +40,15 @@ RT-STM32F469I-EVAL-SDP-CK1Z 예제 디오
   https://www.youtube.com/watch?v=BsQm4dbj0A4&list=PLpDawCIUjDFEE7-GBOBlwlhntEtmyHlbz&index=5
 
   
+읽기3
+https://wiki.ugfx.io/index.php/Using_ChibiStudio#First_start_of_Chibistudio
+
+참조1
+https://rlta.dev/chibios/2018/12/25/ChibiStudio/
+
+참조2 openocd
+https://openocd.org/pages/getting-openocd.html
+
 
 
 
