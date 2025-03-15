@@ -1,7 +1,9 @@
 
 
 읽기1  How to setup ChibiStudio
-https://www.playembedded.org/blog/how-to-setup-chibistudio/
+- https://www.playembedded.org/blog/how-to-setup-chibistudio/
+- 
+
 
 실행1 <다운로드> 윈도우 버전 다운로드
 https://www.chibios.org/dokuwiki/doku.php?id=chibios:products:chibistudio:start
@@ -13,6 +15,27 @@ https://gnutoolchains.com/arm-eabi/openocd/ 로 이동 후 다운로드
 
 실행3 예제  - 다운로드 후 입출풀기 c로 이동
 https://github.com/ChibiOS/ChibiOS
+
+
+
+-올드버전 참조할 수 있을 듯
+https://github.com/fpoussin/ChibiOS-Examples/tree/master
+ChibiOS-Examples-master
+
+
+읽기2 예제후 동일하
+https://www.playembedded.org/blog/simplest-project-chibios/
+
+
+실행4
+RT-STM32F469I-EVAL-SDP-CK1Z 예제 디오
+- import https://www.playembedded.org/blog/how-to-import-a-project/
+
+- 
+  보기 확인
+  https://www.youtube.com/watch?v=BsQm4dbj0A4&list=PLpDawCIUjDFEE7-GBOBlwlhntEtmyHlbz&index=5
+
+  
 
 
 
