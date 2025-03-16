@@ -1,5 +1,14 @@
 
 
+------------------------ 설치 보기
+
+https://www.youtube.com/watch?v=wI7qcAwYRi0&list=PLpDawCIUjDFEE7-GBOBlwlhntEtmyHlbz&index=2
+
+1) stlink 설치
+2) 
+
+
+
 읽기1  How to setup ChibiStudio
 - https://www.playembedded.org/blog/how-to-setup-chibistudio/
 - 
@@ -70,4 +79,12 @@ https://www.playembedded.org/blog/simplest-project-chibios/
 
 gpt 작성
 https://github.com/parzival2/Chibios-Example-Projects
+
+
+stlink 활용
+https://wiki.ugfx.io/index.php/Using_ChibiStudio#First_start_of_Chibistudio
+
+
+
+
 
