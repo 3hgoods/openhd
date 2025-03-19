@@ -1,3 +1,30 @@
+
+
+
+새로운 보드 컴파일
+
+ sudo apt install mc
+  125  mc
+  126  cd ..
+  127  cd libraries/AP_HAL_ChibiOS/hwdef/
+  128  cp fmuv5 fmuv7
+  129  cp -r fmuv5 fmuv7
+  130  cd ..
+  131  history
+  132  ./waf distclean
+  133  ./waf configure --board fmuv7
+  134  cp Tools/bootloaders/fmuv5_bl.bin Tools/bootloaders/fmuv7_bl.bin
+  135  ./waf configure --board fmuv7
+  136  history
+  137  ./waf build --target examples/INS_generic
+  138  ./waf build --target copter
+  139  ./waf copter
+----------------------------------------
+
+
+
+
+
 이 mcu의 최종활용방법은 
 
 ---------\RT1176 M7 에 M4를 보조로 사용하는 방법 예시 알려 줘.
