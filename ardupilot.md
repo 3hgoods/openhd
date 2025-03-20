@@ -19,6 +19,20 @@ git status
 https://ardupilot.org/dev/docs/learning-ardupilot-the-example-sketches.html
 https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_InertialSensor/examples/INS_generic
 
+
+The board target px4-v2 has been removed from ArduPilot with the removal of NuttX support and HAL_PX4.
+Please use a replacement build as follows:
+ px4-v2     Use Pixhawk1 build
+ px4-v3     Use Pixhawk1 or CubeBlack builds
+ px4-v4     Use Pixracer build
+ px4-v4pro  Use DrotekP3Pro build
+
+
+./waf configure --board Pixhawk1
+./waf --target examples/INS_generic --upload
+
+
+
 ./waf configure --board=Pixhawk1
   160  ./waf build --target examples/INS_generic --upload
   161  ./waf distclean
