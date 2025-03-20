@@ -1,4 +1,33 @@
 
+ardupilot 포팅방법
+https://forum.chibios.org/viewtopic.php?t=4463
+
+예시
+https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_HAL_ChibiOS/hwdef/fmuv3/hwdef.dat
+여기 힌트  MCU STM32F4xx STM32F427xx
+
+접근-->  https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_HAL_ChibiOS/hwdef/scripts/STM32F427xx.py
+여기힌트 
+build = {
+    "CHIBIOS_STARTUP_MK"  : "os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk",
+    "CHIBIOS_PLATFORM_MK" : "os/hal/ports/STM32/STM32F4xx/platform.mk
+
+접근-->  https://github.com/ChibiOS/ChibiOS/blob/master/os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32f4xx.mk
+STARTUPSRC = $(CHIBIOS)/os/common/startup/ARMCMx/compilers/GCC/crt1.c
+          
+STARTUPASM = $(CHIBIOS)/os/common/startup/ARMCMx/compilers/GCC/crt0_v7m.S \
+             $(CHIBIOS)/os/common/startup/ARMCMx/compilers/GCC/vectors.S
+
+STARTUPINC = $(CHIBIOS)/os/common/portability/GCC \
+             $(CHIBIOS)/os/common/startup/ARMCMx/compilers/GCC \
+             $(CHIBIOS)/os/common/startup/ARMCMx/devices/STM32F4xx \
+             $(CHIBIOS)/os/common/ext/ARM/CMSIS/Core/Include \
+             $(CHIBIOS)/os/common/ext/ST/STM32F4xx
+
+여기힌트 컴파일로 확인하여 매칭하는 스크립트 완성 필요.!!
+
+
+
 
 
 새로운 보드 컴파일
