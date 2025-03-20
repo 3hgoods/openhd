@@ -30,7 +30,9 @@ Please use a replacement build as follows:
 
 ./waf configure --board Pixhawk1
 ./waf --target examples/INS_generic --upload
-
+353736-if00: [Errno 13] Permission denied: '/dev/serial/by-id/usb-ArduPilot_fmuv3_2B0022000A51393032353736-if00'
+Exception creating uploader: [Errno 13] could not open port /dev/serial/by-id/usb-ArduPilot_fmuv3_2B0022000A51393032353736-if00: [Errno 13] Permission denied: '/dev/serial/by-id/usb-ArduPilot_fmuv3_2B0022000A51393032353736-if00'
+Exception creating uploader: [Errno 13] could not open port /dev/serial/by-id/usb-ArduPilot_fmuv3_2B0022000A51393032353736-if00
 
 
 ./waf configure --board=Pixhawk1
