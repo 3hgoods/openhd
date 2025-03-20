@@ -27,6 +27,9 @@ STARTUPINC = $(CHIBIOS)/os/common/portability/GCC \
 여기힌트 컴파일로 확인하여 매칭하는 스크립트 완성 필요.!!
 
 
+기타자료
+https://discuss.ardupilot.org/t/porting-to-a-stm32f411ccu6-flight-controller-board/119952/11
+
 
 
 
