@@ -9,6 +9,9 @@ https://ahnbk.dev/?p=402
 webcam wsl2
 https://ahnbk.dev/?p=333
 
+wsl cuda
+https://medium.com/dawn-cau/wsl2-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-95d7b95d1f4b
+
 ------
 
 
