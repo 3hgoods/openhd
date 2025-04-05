@@ -6,6 +6,8 @@ https://source.denx.de/Xenomai/xenomai4/linux-evl.git
 설치문서
 https://ahnbk.dev/?p=402
 
+webcam wsl2
+https://ahnbk.dev/?p=333
 
 ------
 
