@@ -1,6 +1,16 @@
 공식문서
 https://doc.xenomai.org/
 
+https://source.denx.de/Xenomai/xenomai4/linux-evl.git
+
+설치문서
+https://ahnbk.dev/?p=402
+
+
+
+
+
+
 ros2 + fpga 결합
 https://essay.utwente.nl/104808/1/Raoudi_MA_EEMCS.pdf
 
