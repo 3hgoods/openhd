@@ -7,7 +7,17 @@ https://source.denx.de/Xenomai/xenomai4/linux-evl.git
 https://ahnbk.dev/?p=402
 
 
+------
 
+
+
+
+
+
+------
+
+참조1 커널 컴파일
+https://www.howtoforge.com/how-to-install-linux-kernel-6-on-ubuntu-22-04/
 
 
 
