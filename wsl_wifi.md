@@ -46,6 +46,15 @@ wsl
    52  mv config .config
    53  make menuconfig
    54  make -j8
+   
+   cd tmp/
+   67  ls
+   68  cd WSL2-Linux-Kernel-linux-msft-wsl-5.15.167.4/
+   69  ls
+   70  sudo make modules_install
+   71  make -j8
+   72  make headers_install
+   
 
 
 
