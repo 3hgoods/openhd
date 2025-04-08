@@ -60,3 +60,14 @@ wsl --unregister Ubuntu-22.04
 
 c가 53.9G여유 --> 55.1G 여유로 변경됨.
 
+설정후 Ubuntu-2204 시작하는 방법은?
+wsl --set-default Ubuntu-2204
+ wsl --list --verbose
+  NAME                   STATE           VERSION
+* Ubuntu-2204            Stopped         2
+  docker-desktop-data    Stopped         2
+  docker-desktop         Stopped         2
+  
+wsl
+혹은 wsl -d Ubuntu-2204
+
