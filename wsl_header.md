@@ -19,7 +19,7 @@ make menuconfig KCONFIG_CONFIG=Microsoft/config-wsl
 # cfg80211 wireless extensions compatibility
 # .config 에 해당하는 파일은 ./Microsoft/config-wsl 이다.
 
-make -j8 KCONFIG_CONFIG=Microsoft/config-wsl && sudo make modules_install
+make -j16 KCONFIG_CONFIG=Microsoft/config-wsl && sudo make modules_install
 sudo make install
 
 sh ./arch/x86/boot/install.sh 5.15.167.4-microsoft-standard-WSL2+ \
@@ -41,6 +41,10 @@ wsl --shutdown
 # .wslconfig 파일이 .으로 시작하므로 탐색기에서 안 보일 수 있다.
 
 C:\Users\<사용자 이름>\.wslconfig  
+[wsl2]
+kernel=C:\\WSL2\\bzImage 
+
+
 
 작성요령
 https://velog.io/@deaf52/wsl-.wslconfig%EC%9C%BC%EB%A1%9C-%EB%8F%84%EC%BB%A4-%EC%8A%A4%ED%8E%99-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0
@@ -61,9 +65,14 @@ git clone https://github.com/OpenHD/rtl8812au
 cd rtl8812au
 ./build_install_no_kms.sh
 
+rmmod: ERROR: Module 88XXau_ohd is not currently loaded
+
 # 아래 명령어로 88XXau_ohd.ko가 잘 loading 되었는지 확인한다.
 lsmod
 
+h1@DESKTOP-5OM6HUE:~/rtl8812au$ lsmod
+Module                  Size  Used by
+88XXau_ohd           2596864  0
 
 
 
