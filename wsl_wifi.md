@@ -1,4 +1,5 @@
-
+jayson@3h
+P@-4h
 
 https://learn.microsoft.com/ko-kr/windows/wsl/#try-wsl-preview-features-by-joining-the-windows-insiders-program
 WSL 데모
@@ -45,6 +46,15 @@ wsl
    51  gunzip config.gz
    52  mv config .config
    53  make menuconfig
+
+/bin/sh: 1: flex: not found
+make[1]: *** [scripts/Makefile.host:9: scripts/kconfig/lexer.lex.c] Error 127
+make: *** [Makefile:627: menuconfig] Error 2
+
+sudo apt install flex bison
+
+
+   
    54  make -j8
    
    cd tmp/
